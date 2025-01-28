@@ -30,7 +30,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone <url-репозитория>
+    git clone https://github.com/rewwea/PointersAndReferences.git
     ```
 
 2. Перейдите в папку с проектом:
